@@ -1,0 +1,10 @@
+#casma{
+    margin-left: 33rem;
+    margin-top: 18rem;
+    padding: 5rem;
+    border-radius: 20px;
+    font-size: 50px;
+    background-color: red;
+    color: yellow;
+    cursor: pointer;
+}
